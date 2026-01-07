@@ -53,6 +53,6 @@ This space highlights my work across user guides, API documentation, integration
 ---
 
 ## 📞 Contact
-📧 Email:  
+📧 Email:  gopalakrishna.soma@gmail.com
 🔗 LinkedIn:  
 🌐 Portfolio Link:  
